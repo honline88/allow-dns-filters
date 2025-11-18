@@ -1,0 +1,11 @@
+!
+! Title: Academy DNS filters
+! Description: List Academy DNS filters
+! Version: 0.0.0.1
+! Homepage: https://github.com/honline88/allow-dns-filters/
+! Last modified: 2025-11-18T12:54:00.000Z
+!
+!
+||hackthebox.com^
+||app.hackthebox.com^
+||academy.hackthebox.com^
